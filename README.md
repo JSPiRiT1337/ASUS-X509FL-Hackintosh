@@ -19,5 +19,4 @@ Monitor：AUO61ED FHD 1920x1080 (15.6 inch)
 
 Sound Card：Realtek ALC256 (layout-id:66)
 
-Wireless Card：Realtek 8821CE Wireless LAN 802.11ac
-               Intel AX200 Wireless
+Wireless Card：Realtek 8821CE Wireless LAN 802.11ac（Replaced with Intel AX200 Wireless）
