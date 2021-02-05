@@ -13,7 +13,7 @@ Memory：8GB Samsung DDR4 2400MHz
 
 Hard Disk：128GB SSD WD SN520
 
-Integrated：Graphics	Intel UHD Graphics 620
+Integrated Graphics：Intel UHD Graphics 620
 
 Monitor：AUO61ED FHD 1920x1080 (15.6 inch)
 
