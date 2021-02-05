@@ -26,7 +26,7 @@ Wireless Card：Realtek 8821CE Wireless LAN 802.11ac（Replaced with Intel AX200
 
 Non-working:
 
-dGPU (Nvidia MX110)
+d-GPU (Nvidia MX110)
 
 Trackpad（GPIO interrupt mode）
 Trackpad polling mode is working properly
