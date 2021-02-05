@@ -22,12 +22,16 @@ Sound Card：Realtek ALC256 (layout-id:66)
 Wireless Card：Realtek 8821CE Wireless LAN 802.11ac（Replaced with Intel AX200 Wireless）
 
 
+
+
 Non-working
 
 dGPU (Nvidia MX110)
 
 Trackpad（GPIO interrupt mode）
 Trackpad polling mode is working properly
+
+
 
 
 Untested availability
