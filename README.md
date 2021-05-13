@@ -40,3 +40,11 @@ Untested availability:
 
 USB-C x1
 Micro-SD Card Reader x1
+
+
+## 维护者 / Maintainer
+
+**** © [Miracle樱乃.](https://github.com/Miracle-Sakuno), Released under the [MIT](./LICENSE) License.<br>
+Authored and maintained by Miracle樱乃. with help from contributors ([list](https://github.com/Miracle-Sakuno/Asus-VivoBook-X509FB-Hackintosh/graphs/contributors)).
+
+> GitHub [@Miracle樱乃.](https://github.com/Miracle-Sakuno) 
