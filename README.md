@@ -48,3 +48,5 @@ Micro-SD Card Reader x1
 Authored and maintained by Miracle樱乃. with help from contributors ([list](https://github.com/Miracle-Sakuno/Asus-VivoBook-X509FB-Hackintosh/graphs/contributors)).
 
 > GitHub [@Miracle樱乃.](https://github.com/Miracle-Sakuno) 
+
+此文档暂时归档，若有其他维护者请勿改动
