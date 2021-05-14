@@ -3,7 +3,7 @@ Asus VivoBook X509FB Hackintosh-macOS Big Sur-OpenCore 0.6.6
 
 # Configuration
 
-## Specifications:
+## 硬件配置 / Specifications:
 
 Computer model：X509FB (Y5200FB)
 
@@ -24,7 +24,7 @@ Wireless Card：Realtek 8821CE Wireless LAN 802.11ac（Replaced with Intel AX200
 
 
 
-## Non-working:
+## 无法工作 / Non-working:
 
 - d-GPU (Nvidia MX110)
 
@@ -36,7 +36,7 @@ Trackpad polling mode is working properly
 
 
 
-## Untested availability:
+## 未经测试 / Untested availability:
 
 - USB-C x1
 - Micro-SD Card Reader x1
