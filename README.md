@@ -48,6 +48,6 @@ Wireless Card：Realtek 8821CE Wireless LAN 802.11ac（Replaced with Intel AX200
 © [Miracle樱乃.](https://github.com/Miracle-Sakuno), Released under the [MIT License](./LICENSE) .<br>
 Authored and maintained by Miracle樱乃. with help from contributors ([list](https://github.com/Miracle-Sakuno/Asus-VivoBook-X509FB-Hackintosh/graphs/contributors)).
 
-> GitHub [@Miracle樱乃.](https://github.com/Miracle-Sakuno) 
+> GitHub [@Miracle樱乃.](https://github.com/Miracle-Sakuno) · Twitter [@Miracle樱乃.](https://twitter.com/Miracle_Sakuno)
 
 此文档暂时归档，若有其他维护者请勿改动
