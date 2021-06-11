@@ -1,5 +1,5 @@
 # Asus VivoBook X509FB Hackintosh
-Asus VivoBook X509FB Hackintosh-macOS Big Sur-OpenCore
+Asus VivoBook X509FB Hackintosh Laptop-macOS Big Sur-OpenCore
 
 # Configuration
 
