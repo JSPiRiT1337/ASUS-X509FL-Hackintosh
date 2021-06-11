@@ -5,7 +5,7 @@ Asus VivoBook X509FB Hackintosh-macOS Big Sur-OpenCore
 
 ## 硬件配置 / Specifications:
 
-Computer model：X509FB (Y5200FB)
+Computer model：Asus VivoBook X509FB (Y5200FB)
 
 Processor：Intel Core i5-8265U Processor（Whiskey Lake）
 
