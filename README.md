@@ -40,7 +40,7 @@ Wireless Card：Realtek 8821CE Wireless LAN 802.11ac（Replaced with Intel AX200
 ## 未经测试 / Untested availability:
 
 - USB-C x1
-- Micro-SD Card Reader x1
+- Micro-SD Card USB Reader x1
 
 
 ## 维护者 / Maintainer
