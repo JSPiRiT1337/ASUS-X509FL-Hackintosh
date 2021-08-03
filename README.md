@@ -39,7 +39,7 @@ Wireless Card：Realtek 8821CE Wireless LAN 802.11ac（Replaced with Intel AX200
 The ELAN1200 touchpad on this machine cannot work normally. It will stop working randomly in macOS, although it will be restored after waking up the machine a few minutes after the machine goes to sleep. But this problem can't be solved after I try to study it.
 #### Therefore, when using the machine, be sure to carry the mouse with you to avoid unnecessary trouble caused by using only the touch pad.
 
-详情请见
+详情请见链接
 
 See the link for details
 
