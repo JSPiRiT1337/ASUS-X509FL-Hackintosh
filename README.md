@@ -21,9 +21,6 @@ Sound Card：Realtek ALC256 (layout-id:66)
 
 Wireless Card：Realtek 8821CE Wireless LAN 802.11ac（Replaced with Intel AX200 Wireless）
 
-
-
-
 ## 无法工作 / Non-working:
 
 - d-GPU (Nvidia MX110)
@@ -34,14 +31,22 @@ Wireless Card：Realtek 8821CE Wireless LAN 802.11ac（Replaced with Intel AX200
 
 - Realtek 8821CE Wireless LAN 802.11ac
 
+## 注意事项 / Attention Points
 
+此机器搭载的ELAN1200触摸板无法正常工作，它会在macOS中随机停止工作，虽然在机器进入睡眠数分钟后，将机器唤醒会得到恢复。但是此问题我尝试研究后无法解决。
+# 因此使用该机器务必随身携带鼠标使用，避免仅使用触摸板而造成不必要的麻烦。
 
+The ELAN1200 touchpad on this machine cannot work normally. It will stop working randomly in macOS, although it will be restored after waking up the machine a few minutes after the machine goes to sleep. But this problem can't be solved after I try to study it.
+# Therefore, when using the machine, be sure to carry the mouse with you to avoid unnecessary trouble caused by using only the touch pad.
+
+详情请见
+See the link for details
+https://github.com/VoodooI2C/VoodooI2C/issues/321
 
 ## 未经测试 / Untested availability:
 
 - USB-C x1
 - Micro-SD Card USB Reader x1
-
 
 ## 维护者 / Maintainer
 
