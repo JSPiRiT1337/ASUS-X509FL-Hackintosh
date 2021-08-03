@@ -43,7 +43,7 @@ The ELAN1200 touchpad on this machine cannot work normally. It will stop working
 
 See the link for details
 
-https://github.com/VoodooI2C/VoodooI2C/issues/321
+[Link/链接🔗](https://github.com/VoodooI2C/VoodooI2C/issues/321)
 
 ## 未经测试 / Untested availability:
 
