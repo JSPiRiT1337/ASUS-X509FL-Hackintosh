@@ -49,7 +49,7 @@ https://github.com/VoodooI2C/VoodooI2C/issues/321
 
 ## 未经测试 / Untested availability:
 
-- USB-C x1
+- None
 
 ## 维护者 / Maintainer
 
