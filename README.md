@@ -31,6 +31,8 @@ Wireless Card：Realtek 8821CE Wireless LAN 802.11ac（Replaced with Intel AX200
 
 - Realtek 8821CE Wireless LAN 802.11ac
 
+- Micro-SD Card USB Reader
+
 ## 注意事项 / Attention Points
 
 此机器搭载的ELAN1200触摸板无法正常工作，它会在macOS中随机停止工作，虽然在机器进入睡眠数分钟后，将机器唤醒会得到恢复。但是此问题我尝试研究后无法解决。
@@ -48,7 +50,6 @@ https://github.com/VoodooI2C/VoodooI2C/issues/321
 ## 未经测试 / Untested availability:
 
 - USB-C x1
-- Micro-SD Card USB Reader x1
 
 ## 维护者 / Maintainer
 
